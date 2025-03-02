@@ -11,3 +11,5 @@ theme:
   locale: en
   include_sidebar: false
   color_mode: auto
+markdown_extensions:
+  - attr_list

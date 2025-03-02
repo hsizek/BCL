@@ -4,7 +4,9 @@ BCL has 5 houses across Bloomington. Rooms range from around $500 to $900 depend
 The monthly cost covers includes the cost of the room, utilities, food, and organization maintenance.
 
 ## Goodlawn
-
+![](./images/gl.png){: style="height:120px;width:120px"}
+![](./images/gl2.avif){: style="height:120px;width:120px"}
+![](./images/gl7a-7b.avif){: style="height:120px;width:120px"}
 ## Mercury
 
 ## Middle Earth

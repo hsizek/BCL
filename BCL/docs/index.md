@@ -1,5 +1,6 @@
-# Bloomington Cooperative Living
-We are Bloomingtons primary cooperative living organization. 
+# ![logo](./images/BCL_logo.svg){: style="height:80px;width:80px"} Bloomington Cooperative Living 
+
+We are Bloomington's primary cooperative living organization. 
 
 In our houses, we share the responsibilities of managing a household as well as the community it creates. Members can expect to:
 
@@ -7,7 +8,6 @@ In our houses, we share the responsibilities of managing a household as well as 
 * Take up a regular household chore, whether it is getting groceries or cleaning common areas
 * Contribute positively to the house's culture and function
 * Interact with other members of BCL and the broader community
-
 
 ## Apply to Live at BCL
 
