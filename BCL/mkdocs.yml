@@ -1,0 +1,13 @@
+site_name: BCL - Bloomington Cooperative Living
+nav:
+  - Home: index.md
+  - Live Here: membership.md
+  - Houses: Houses.md
+  - About: about.md
+
+
+theme:
+  name: mkdocs
+  locale: en
+  include_sidebar: false
+  color_mode: auto
