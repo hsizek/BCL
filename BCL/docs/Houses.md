@@ -21,7 +21,7 @@ Middle Earth is the oldest house in BCL, with 20 some rooms across two floors. I
 Trellis is on the Near West side, next to Butler Park. It is focused on family and multigenerational living, with two suites, lots of common spaces, including two kitchens.
 ![](./images/Trel-people.jpg){: style="height:120px;width:120px"}
 ![](./images/Trel-out.jpg){: style="height:120px;width:120px"}
-![](./imgaes/Trel-living.jpg){: style="height:120px;width:120px"}  
+![](./images/Trel-living.jpg){: style="height:120px;width:120px"}  
 
 ## Which House
 Which House is located just south of Indiana University and a short walk to downtown Bloomington. A quarter mile south, there is Bryan park. 
