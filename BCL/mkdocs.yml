@@ -2,7 +2,7 @@ site_name: BCL - Bloomington Cooperative Living
 nav:
   - Home: index.md
   - Live Here: membership.md
-  - Houses: Houses.md
+  - Houses: houses.md
   - About: about.md
 
 
