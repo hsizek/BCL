@@ -30,3 +30,8 @@ Applications for full year leases, August 1 - July 30, are open for:
 For details on the application process and what life is like at BCL, see [Live Here](membership.md)
 
 For details on the individual houses, look at [our houses page](Houses.md)
+
+## I want to be involved, but don't want to live in BCL
+Community members are more than welcome to get involved with BCL! 
+
+A great way to start is by becoming a boarder at one of the houses (eat food at the houses regularly), most of the houses offer half or full board. If you are interested in this, contact us through email <> or talk with someone who you know in the organization about it! Often boarders will come over for dinner multiple times a week, sometimes they contribute to the house in various ways, such as giving us extra garden zuchinni. 
