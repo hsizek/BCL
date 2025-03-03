@@ -22,9 +22,9 @@ We are currently accepting applications for partial leases (now-ish to August). 
 
 Applications for full year leases, August 1 - July 30, are open, starting in mid-March for **all houses**. 
 
-For details on the application process and what life is like at BCL, see [Live Here](membership).
+For details on the application process and what life is like at BCL, see [Live Here](membership.md).
 
-For details on the individual houses, look at [our houses page](Houses).
+For details on the individual houses, look at [our houses page](Houses.md).
 
 ## Board at BCL
 Most houses offer half or full board. If you board at one of the houses, you can come by for food, often dinner, multiple times a week. Sometimes boarders will help out the houses in other ways, like finding a home for their suplus zuchinni in August. If you are interested in boarding, contact us through email, <>, or talk with someone in the organization about it!
