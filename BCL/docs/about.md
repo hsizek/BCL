@@ -36,11 +36,12 @@ Portions of our mission are funded through grants. We are thankful for all of th
 ## Officers
 
 Most officers on the board are elected for two year terms, as of April 2025. The officers are:  
+
 * President - Peter Cho
 * Vice President - Lain
 * Treasurer - Gage Miller
 * Secretary - 
-* Membership Coordinator - Analise Cain 
+* Membership Coordinator - Annalise Cain 
 
 # Contact Us?
 Please email us at <>
