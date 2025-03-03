@@ -4,12 +4,12 @@ nav:
   - Live Here: membership.md
   - Houses: Houses.md
   - About: about.md
-
-
 theme:
   name: mkdocs
+  custom_dir: custom_theme/
   locale: en
   include_sidebar: false
   color_mode: auto
+  favicon: img/favicon.ico
 markdown_extensions:
   - attr_list

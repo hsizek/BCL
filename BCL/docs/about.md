@@ -30,6 +30,9 @@ The BCL Board of Directors meets on the first Sunday of each month. The Board co
 
 The primary decision making body is the General Assembly. The members of the organization meet on the second Sunday of each month to discuss and decide on particular actions the organization should make. This can range from communicating about different comminity events or actions, directing the board to take specific actions such as applying to specific grants, or making larger decisions, like signing contracts or purchacing property. Any decision needs 70% approval to be implemented.
 
+## Grants 
+Portions of our mission are funded through grants. We are thankful for all of the agencies which have provided us with different grants which let our members enjoy their homes to the upmost.
+
 ## Officers
 
 Most officers on the board are elected for two year terms, as of April 2025. The officers are:  
