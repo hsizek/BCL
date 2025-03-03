@@ -13,25 +13,23 @@ In our houses, we share the responsibilities of managing a household as well as 
 
 Fill out our application [here](https://docs.google.com/forms/d/e/1FAIpQLSfDdIf3ke8mepx9VzwtEgYo-GBmQkiMHLKS8C9H5A9DsA44pA/viewform). 
 
-We are currently accepting applications for partial leases (now-ish to August). Partial leases usually have the ability to be extended:
+We are currently accepting applications for partial leases (now-ish to August). Partial leases usually have the ability to be extended. The current houses looking for partial leases are:
 
-* Mercury - One Room
-* Trellis - One Room
-* Which House - One Room
+* Mercury
+* Middle Earth
+* Trellis
+* Which House
 
-Applications for full year leases, August 1 - July 30, are open for:
+Applications for full year leases, August 1 - July 30, are open, starting in mid-March for **all houses**. 
 
-* Goodlawn - 3 Rooms
-* Mercury - 3 Rooms
-* Middle Earth - 6 Rooms
-* Trellis - 6 Rooms
-* Which House - 6 Rooms
+For details on the application process and what life is like at BCL, see [Live Here](membership.md).
 
-For details on the application process and what life is like at BCL, see [Live Here](membership.md)
+For details on the individual houses, look at [our houses page](Houses.md).
 
-For details on the individual houses, look at [our houses page](Houses.md)
+## Board at BCL
+Most houses offer half or full board. If you board at one of the houses, you can come by for food, often dinner, multiple times a week. Sometimes boarders will help out the houses in other ways, like finding a home for their suplus zuchinni in August. If you are interested in boarding, contact us through email, <>, or talk with someone in the organization about it!
 
-## I want to be involved, but don't want to live in BCL
+## Being involved in other ways
 Community members are more than welcome to get involved with BCL! 
 
-A great way to start is by becoming a boarder at one of the houses (eat food at the houses regularly), most of the houses offer half or full board. If you are interested in this, contact us through email <> or talk with someone who you know in the organization about it! Often boarders will come over for dinner multiple times a week, sometimes they contribute to the house in various ways, such as giving us extra garden zuchinni. 
+A good way to start is to board with a house to get to know people. If you want to share a particular skill, such as gardening, grant writing, contracting, etc., feel free to contact us through email, <>, or talk with a member about how you would like to get involved in BCL. 
